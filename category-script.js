@@ -8,30 +8,52 @@ const galleryData = {
         title: 'Wedding Collection',
         description: 'Capturing the love, joy, and beautiful moments of your special day',
         images: [
-            { src: 'Jeyamwedding.jpg', alt: 'Wedding Photography 1' },
-            { src: 'Jeyamwedding1.jpg', alt: 'Wedding Photography 2' },
-            { src: 'Jeyamwedding2.jpg', alt: 'Wedding Photography 3' },
-            { src: 'Jeyamwedding3.jpg', alt: 'Wedding Photography 4' },
-            { src: 'Jeyamwedding4.jpg', alt: 'Wedding Photography 5' },
-            { src: 'Jeyamwedding5.jpg', alt: 'Wedding Photography 6' },
-            { src: 'Jeyamwedding6.jpg', alt: 'Wedding Photography 7' },
-            { src: 'Jeyamwedding7.jpg', alt: 'Wedding Photography 8' },
-            { src: 'Jeyamwedding8.jpg', alt: 'Wedding Photography 9' },
-            { src: 'Jeyamwedding9.jpg', alt: 'Wedding Photography 10' },
-            { src: 'Jeyamwedding10.jpg', alt: 'Wedding Photography 11' },
-            { src: 'Jeyamwedding11.png', alt: 'Wedding Photography 12' }
+				{ src: 'jeyam_flash_wedding_001.jpg', alt: 'Wedding Photography 1' },
+				{ src: 'jeyam_flash_wedding_002.jpg', alt: 'Wedding Photography 2' },
+				{ src: 'jeyam_flash_wedding_003.jpg', alt: 'Wedding Photography 3' },
+				{ src: 'jeyam_flash_wedding_004.jpg', alt: 'Wedding Photography 4' },
+				{ src: 'jeyam_flash_wedding_005.jpg', alt: 'Wedding Photography 5' },
+				{ src: 'jeyam_flash_wedding_006.jpg', alt: 'Wedding Photography 6' },
+				{ src: 'jeyam_flash_wedding_007.jpg', alt: 'Wedding Photography 7' },
+				{ src: 'jeyam_flash_wedding_008.jpg', alt: 'Wedding Photography 8' },
+				{ src: 'jeyam_flash_wedding_009.jpg', alt: 'Wedding Photography 9' },
+				{ src: 'jeyam_flash_wedding_010.jpg', alt: 'Wedding Photography 10' },
+				{ src: 'jeyam_flash_wedding_011.jpg', alt: 'Wedding Photography 11' },
+				{ src: 'jeyam_flash_wedding_012.jpg', alt: 'Wedding Photography 12' },
+				{ src: 'jeyam_flash_wedding_013.jpg', alt: 'Wedding Photography 13' },
+				{ src: 'jeyam_flash_wedding_014.jpg', alt: 'Wedding Photography 14' },
+				{ src: 'jeyam_flash_wedding_015.jpg', alt: 'Wedding Photography 15' },
+				{ src: 'jeyam_flash_wedding_016.jpg', alt: 'Wedding Photography 16' },
+				{ src: 'jeyam_flash_wedding_017.jpg', alt: 'Wedding Photography 17' },
+				{ src: 'jeyam_flash_wedding_018.jpg', alt: 'Wedding Photography 18' },
+				{ src: 'jeyam_flash_wedding_019.jpg', alt: 'Wedding Photography 19' },
+				{ src: 'jeyam_flash_wedding_020.jpg', alt: 'Wedding Photography 20' },
+				{ src: 'jeyam_flash_wedding_021.jpg', alt: 'Wedding Photography 21' },
+				{ src: 'jeyam_flash_wedding_022.jpg', alt: 'Wedding Photography 22' },
+				{ src: 'jeyam_flash_wedding_023.jpg', alt: 'Wedding Photography 23' },
+				{ src: 'jeyam_flash_wedding_024.jpg', alt: 'Wedding Photography 24' },
+				{ src: 'jeyam_flash_wedding_025.jpg', alt: 'Wedding Photography 25' },
+				{ src: 'jeyam_flash_wedding_026.jpg', alt: 'Wedding Photography 26' },
+				{ src: 'jeyam_flash_wedding_027.jpg', alt: 'Wedding Photography 27' },
+				{ src: 'jeyam_flash_wedding_028.jpg', alt: 'Wedding Photography 28' },
+				{ src: 'jeyam_flash_wedding_029.jpg', alt: 'Wedding Photography 29' },
+				{ src: 'jeyam_flash_wedding_030.jpg', alt: 'Wedding Photography 30' },
+				{ src: 'jeyam_flash_wedding_031.jpg', alt: 'Wedding Photography 31' },
+				{ src: 'jeyam_flash_wedding_032.jpg', alt: 'Wedding Photography 32' },
+				{ src: 'jeyam_flash_wedding_033.jpg', alt: 'Wedding Photography 33' },
+				{ src: 'jeyam_flash_wedding_034.jpg', alt: 'Wedding Photography 34' },
+				{ src: 'jeyam_flash_wedding_035.jpg', alt: 'Wedding Photography 35' },
+				{ src: 'jeyam_flash_wedding_036.jpg', alt: 'Wedding Photography 36' },
+				{ src: 'jeyam_flash_wedding_037.jpg', alt: 'Wedding Photography 37' },
+				{ src: 'jeyam_flash_wedding_038.jpg', alt: 'Wedding Photography 38' },
+				{ src: 'jeyam_flash_wedding_039.jpg', alt: 'Wedding Photography 39' },
+				{ src: 'jeyam_flash_wedding_040.jpg', alt: 'Wedding Photography 40' },
+				{ src: 'jeyam_flash_wedding_041.jpg', alt: 'Wedding Photography 41' }
+
+		
         ]
     },
-    couple: {
-        title: 'Couple Collection',
-        description: 'Beautiful traditional photography moments',
-        images: [
-            { src: 'Jeyamwedding3.jpg', alt: 'Couple Photography 1' },
-            { src: 'Jeyamwedding4.jpg', alt: 'Couple Photography 2' },
-            { src: 'Jeyamprewed1.jpg', alt: 'Couple Photography 3' },
-            { src: 'Jeyamwedding6.jpg', alt: 'Couple Photography 4' }
-        ]
-    },
+    
     baby: {
         title: 'Baby Collection',
         description: 'Precious moments of newborns and growing babies',
@@ -43,30 +65,70 @@ const galleryData = {
             { src: 'Jeyambaby4.jpg', alt: 'Baby Photography 5' },
             { src: 'Jeyambaby5.jpg', alt: 'Baby Photography 6' },
             { src: 'Jeyambaby6.jpg', alt: 'Baby Photography 7' },
-            { src: 'Jeyambaby7.jpg', alt: 'Baby Photography 8' }
+            { src: 'Jeyambaby7.jpg', alt: 'Baby Photography 8' },
+			{ src: 'jeyam_flash_couples_001.jpg', alt: 'Baby Photography 9' },
+			{ src: 'jeyam_flash_couples_002.jpg', alt: 'Baby Photography 10' },
+			{ src: 'jeyam_flash_couples_003.jpg', alt: 'Baby Photography 11' },
+			{ src: 'jeyam_flash_couples_004.jpg', alt: 'Baby Photography 12' },
+			{ src: 'jeyam_flash_couples_005.jpg', alt: 'Baby Photography 13' },
+			{ src: 'jeyam_flash_couples_006.jpg', alt: 'Baby Photography 14' },
+			{ src: 'jeyam_flash_couples_007.jpg', alt: 'Baby Photography 15' }
         ]
     },
+	
     couples: {
         title: 'Couples Collection',
         description: 'Beautiful moments of love and togetherness',
         images: [
-            { src: 'Jeyamprewed1.jpg', alt: 'Couples Photography 1' },
-            { src: 'prewed.jpg', alt: 'Couples Photography 2'  },
-            { src: 'prewed2.jpg', alt: 'Couples Photography 3' },
-            { src: 'prewed3.jpg', alt: 'Couples Photography 4' },
-            { src: 'prewed4.jpg', alt: 'Couples Photography 5' },
-            { src: 'Jeyamprewed2.jpg', alt: 'Couples Photography 8' },
-            { src: 'Jeyamprewed3.jpg', alt: 'Couples Photography 9' },
-            { src: 'Jeyamprewed4.jpg', alt: 'Couples Photography 10' },
-            { src: 'Jeyamprewed5.jpg', alt: 'Couples Photography 11' },
-            { src: 'Jeyamprewed6.jpg', alt: 'Couples Photography 12' },
-            { src: 'Jeyamprewed7.jpg', alt: 'Couples Photography 13' },
-            { src: 'Jeyamprewed8.jpg', alt: 'Couples Photography 14' },
-            { src: 'Jeyamprewed9.jpg', alt: 'Couples Photography 15' },
-            { src: 'Jeyamprewed10.jpg', alt: 'Couples Photography 16' },
-            { src: 'Jeyamprewed11.jpg', alt: 'Couples Photography 17' }, 
+
+				{ src: 'jeyam_flash_couples_001.jpg', alt: 'Couple Photography 1' },
+				{ src: 'jeyam_flash_couples_002.jpg', alt: 'Couple Photography 2' },
+				{ src: 'jeyam_flash_couples_003.jpg', alt: 'Couple Photography 3' },
+				{ src: 'jeyam_flash_couples_004.jpg', alt: 'Couple Photography 4' },
+				{ src: 'jeyam_flash_couples_005.jpg', alt: 'Couple Photography 5' },
+				{ src: 'jeyam_flash_couples_006.jpg', alt: 'Couple Photography 6' },
+				{ src: 'jeyam_flash_couples_007.jpg', alt: 'Couple Photography 7' },
+				{ src: 'jeyam_flash_couples_008.jpg', alt: 'Couple Photography 8' },
+				{ src: 'jeyam_flash_couples_009.jpg', alt: 'Couple Photography 9' },
+				{ src: 'jeyam_flash_couples_010.jpg', alt: 'Couple Photography 10' },
+				{ src: 'jeyam_flash_couples_011.jpg', alt: 'Couple Photography 11' },
+				{ src: 'jeyam_flash_couples_012.jpg', alt: 'Couple Photography 12' },
+				{ src: 'jeyam_flash_couples_013.jpg', alt: 'Couple Photography 13' },
+				{ src: 'jeyam_flash_couples_014.jpg', alt: 'Couple Photography 14' },
+				{ src: 'jeyam_flash_couples_015.jpg', alt: 'Couple Photography 15' },
+				{ src: 'jeyam_flash_couples_016.jpg', alt: 'Couple Photography 16' },
+				{ src: 'jeyam_flash_couples_017.jpg', alt: 'Couple Photography 17' },
+				{ src: 'jeyam_flash_couples_018.jpg', alt: 'Couple Photography 18' },
+				{ src: 'jeyam_flash_couples_019.jpg', alt: 'Couple Photography 19' },
+				{ src: 'jeyam_flash_couples_020.jpg', alt: 'Couple Photography 20' },
+				{ src: 'jeyam_flash_couples_021.jpg', alt: 'Couple Photography 21' },
+				{ src: 'jeyam_flash_couples_022.jpg', alt: 'Couple Photography 22' },
+				{ src: 'jeyam_flash_couples_023.jpg', alt: 'Couple Photography 23' },
+				{ src: 'jeyam_flash_couples_024.jpg', alt: 'Couple Photography 24' },
+				{ src: 'jeyam_flash_couples_025.jpg', alt: 'Couple Photography 25' },
+				{ src: 'jeyam_flash_couples_026.jpg', alt: 'Couple Photography 26' },
+				{ src: 'jeyam_flash_couples_027.jpg', alt: 'Couple Photography 27' },
+				{ src: 'jeyam_flash_couples_028.jpg', alt: 'Couple Photography 28' },
+				{ src: 'jeyam_flash_couples_029.jpg', alt: 'Couple Photography 29' },
+				{ src: 'jeyam_flash_couples_030.jpg', alt: 'Couple Photography 30' },
+				{ src: 'jeyam_flash_couples_031.jpg', alt: 'Couple Photography 31' },
+				{ src: 'jeyam_flash_couples_032.jpg', alt: 'Couple Photography 32' },
+				{ src: 'jeyam_flash_couples_033.jpg', alt: 'Couple Photography 33' },
+				{ src: 'jeyam_flash_couples_034.jpg', alt: 'Couple Photography 34' },
+				{ src: 'jeyam_flash_couples_035.jpg', alt: 'Couple Photography 35' },
+				{ src: 'jeyam_flash_couples_036.jpg', alt: 'Couple Photography 36' },
+				{ src: 'jeyam_flash_couples_037.jpg', alt: 'Couple Photography 37' },
+				{ src: 'jeyam_flash_couples_038.jpg', alt: 'Couple Photography 38' },
+				{ src: 'jeyam_flash_couples_039.jpg', alt: 'Couple Photography 39' },
+				{ src: 'jeyam_flash_couples_040.jpg', alt: 'Couple Photography 40' },
+				{ src: 'jeyam_flash_couples_041.jpg', alt: 'Couple Photography 41' },
+				{ src: 'jeyam_flash_couples_042.jpg', alt: 'Couple Photography 42' },
+				{ src: 'jeyam_flash_couples_043.jpg', alt: 'Couple Photography 43' },
+				{ src: 'jeyam_flash_couples_044.jpg', alt: 'Couple Photography 44' }
+
         ]
     },
+	
     traditional: {
         title: 'Traditional Collection',
         description: 'Beautiful traditional photography moments',
@@ -77,6 +139,7 @@ const galleryData = {
             { src: 'Jeyamtraditional3.jpg', alt: 'Traditional Photography 4' }
         ]
     },
+	
     maternity: {
         title: 'Maternity Collection',
         description: 'Celebrating the beautiful journey of motherhood',
@@ -89,9 +152,10 @@ const galleryData = {
             { src: 'Jeyammaternity6.jpg', alt: 'Maternity Photography 6' },
             { src: 'Jeyammaternity7.jpg', alt: 'Maternity Photography 7' },
             { src: 'Jeyammaternity8.jpg', alt: 'Maternity Photography 8' },
-            { src: 'Jeyammaternity9.jpg', alt: 'Maternity Photography 9' }, 
+            { src: 'Jeyammaternity9.jpg', alt: 'Maternity Photography 9' } 
         ]
     },
+	
     groom: {
         title: 'Groom Collection',
         description: 'Stunning portraits and moments of the groom',
@@ -100,7 +164,7 @@ const galleryData = {
             { src: 'Jeyamgroom2.jpg', alt: 'Groom Photography 2' },
             { src: 'Jeyamgroom3.jpg', alt: 'Groom Photography 3' },
             { src: 'Jeyamgroom4.jpg', alt: 'Groom Photography 4' },
-            { src: 'Jeyamgroom5.jpg', alt: 'Groom Photography 5' },
+            { src: 'Jeyamgroom5.jpg', alt: 'Groom Photography 5' }
         ]
     },
     model: {
@@ -125,20 +189,72 @@ const galleryData = {
             { src: 'Jeyambride6.jpg', alt: 'Bride Photography 6' },
             { src: 'Jeyambride7.jpg', alt: 'Bride Photography 7' },
             { src: 'Jeymbride4.jpg', alt: 'Bride Photography 8' },
-             { src: 'bride1.jpg', alt: 'Bride Photography 9' },
+             { src: 'bride1.jpg', alt: 'Bride Photography 9' }
         ]
     },
-    'birthday baby': {
-        title: 'Birthday Baby Collection',
+    'birthday': {
+        title: 'Birthday Collection',
         description: 'Capturing the joy and excitement of birthday celebrations',
         images: [
-            { src: 'birthday.JPG', alt: 'Birthday Baby Photography 1' },
-            { src: 'birthday2.JPG', alt: 'Birthday Baby Photography 2' },
-            { src: 'birthday3.JPG', alt: 'Birthday Baby Photography 3' },
-            { src: 'birthday4.JPG', alt: 'Birthday Baby Photography 4' }
+            { src: 'jeyam_flash_birthday_001.jpg', alt: 'Birthday Baby Photography 1' },
+            { src: 'jeyam_flash_birthday_002.jpg', alt: 'Birthday Baby Photography 2' },
+            { src: 'jeyam_flash_birthday_003.jpg', alt: 'Birthday Baby Photography 3' },
+            { src: 'jeyam_flash_birthday_004.jpg', alt: 'Birthday Baby Photography 4' },
+            { src: 'jeyam_flash_birthday_005.jpg', alt: 'Birthday Baby Photography 5' },
+            { src: 'jeyam_flash_birthday_006.jpg', alt: 'Birthday Baby Photography 6' },
+            { src: 'jeyam_flash_birthday_007.jpg', alt: 'Birthday Baby Photography 7' },
+            { src: 'jeyam_flash_birthday_008.jpg', alt: 'Birthday Baby Photography 8' },
+            { src: 'jeyam_flash_birthday_009.jpg', alt: 'Birthday Baby Photography 9' },
+            { src: 'jeyam_flash_birthday_010.jpg', alt: 'Birthday Baby Photography 10' },
+            { src: 'jeyam_flash_birthday_011.jpg', alt: 'Birthday Baby Photography 11' },
+            { src: 'jeyam_flash_birthday_012.jpg', alt: 'Birthday Baby Photography 12' },
+            { src: 'jeyam_flash_birthday_013.jpg', alt: 'Birthday Baby Photography 13' },
+            { src: 'jeyam_flash_birthday_014.jpg', alt: 'Birthday Baby Photography 14' },
+            { src: 'jeyam_flash_birthday_015.jpg', alt: 'Birthday Baby Photography 15' },
+			{ src: 'jeyam_flash_birthday_016.jpg', alt: 'Birthday Baby Photography 16' },
+			{ src: 'jeyam_flash_birthday_017.jpg', alt: 'Birthday Baby Photography 17' },
+			{ src: 'jeyam_flash_birthday_018.jpg', alt: 'Birthday Baby Photography 18' },
+			{ src: 'jeyam_flash_birthday_019.jpg', alt: 'Birthday Baby Photography 19' },
+			{ src: 'jeyam_flash_birthday_020.jpg', alt: 'Birthday Baby Photography 20' },
+			{ src: 'jeyam_flash_birthday_021.jpg', alt: 'Birthday Baby Photography 21' },
+			{ src: 'jeyam_flash_birthday_022.jpg', alt: 'Birthday Baby Photography 22' },
+			{ src: 'jeyam_flash_birthday_023.jpg', alt: 'Birthday Baby Photography 23' },
+			{ src: 'jeyam_flash_birthday_024.jpg', alt: 'Birthday Baby Photography 24' },
+			{ src: 'jeyam_flash_birthday_025.jpg', alt: 'Birthday Baby Photography 25' },
+			{ src: 'jeyam_flash_birthday_026.jpg', alt: 'Birthday Baby Photography 26' },
+			{ src: 'jeyam_flash_birthday_027.jpg', alt: 'Birthday Baby Photography 27' },
+			{ src: 'jeyam_flash_birthday_028.jpg', alt: 'Birthday Baby Photography 28' },
+			{ src: 'jeyam_flash_birthday_029.jpg', alt: 'Birthday Baby Photography 29' },
+			{ src: 'jeyam_flash_birthday_030.jpg', alt: 'Birthday Baby Photography 30' }
         ]
     },
 
+    'idcard': {
+        title: 'ID Card Collection',
+        description: 'Capturing the joy and excitement of ID Card',
+        images: [
+            { src: 'jeyam_flash_idcard_001.jpg', alt: 'ID Card Photography 1' },
+            { src: 'jeyam_flash_idcard_002.jpg', alt: 'ID Card Photography 2' },		
+            { src: 'jeyam_flash_idcard_003.jpg', alt: 'ID Card Photography 3' }						
+        ]
+    },
+	
+    'passport': {
+        title: 'Passport Size Photo Collection',
+        description: 'Capturing the joy and excitement of Passport Size Photos',
+        images: [
+            { src: 'jeyam_flash_photocopy_001.jpg', alt: 'Passport Size Photocopy 1' },
+            { src: 'jeyam_flash_photocopy_002.jpg', alt: 'Passport Size Photocopy 2' },		
+            { src: 'jeyam_flash_photocopy_003.jpg', alt: 'Passport Size Photocopy 3' },					
+			{ src: 'jeyam_flash_photocopy_004.jpg', alt: 'Passport Size Photocopy 4' },						
+			{ src: 'jeyam_flash_photocopy_005.jpg', alt: 'Passport Size Photocopy 5' },						
+			{ src: 'jeyam_flash_photocopy_006.jpg', alt: 'Passport Size Photocopy 6' },						
+			{ src: 'jeyam_flash_photocopy_007.jpg', alt: 'Passport Size Photocopy 7' },						
+			{ src: 'jeyam_flash_photocopy_008.jpg', alt: 'Passport Size Photocopy 8' },						
+			{ src: 'jeyam_flash_photocopy_009.jpg', alt: 'Passport Size Photocopy 9' }						
+        ]
+    },	
+	
     housewarming: {
         title: 'Housewarming Collection',
         description: 'Celebrating the new home and its inhabitants',
@@ -151,7 +267,7 @@ const galleryData = {
             { src: 'House6.jpg', alt: 'Housewarming Photography 6' },
             { src: 'House7.jpg', alt: 'Housewarming Photography 7' },
             { src: 'House8.jpg', alt: 'Housewarming Photography 8' },
-            { src: 'House9.jpg', alt: 'Housewarming Photography 9' },
+            { src: 'House9.jpg', alt: 'Housewarming Photography 9' }
         ]
     }
 };
