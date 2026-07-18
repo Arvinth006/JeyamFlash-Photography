@@ -102,6 +102,7 @@ const galleryData = {
 				{ src: 'jeyam_flash_couples_019.jpg', alt: 'Couple Photography 19' },
 				{ src: 'jeyam_flash_couples_020.jpg', alt: 'Couple Photography 20' },
 				{ src: 'jeyam_flash_couples_021.jpg', alt: 'Couple Photography 21' },
+				//{ src: 'jeyam_flash_couples_022.jpg', alt: 'Couple Photography 22' },
 				{ src: 'jeyam_flash_couples_023.jpg', alt: 'Couple Photography 23' },
 				{ src: 'jeyam_flash_couples_024.jpg', alt: 'Couple Photography 24' },
 				{ src: 'jeyam_flash_couples_025.jpg', alt: 'Couple Photography 25' },
@@ -112,6 +113,7 @@ const galleryData = {
 				{ src: 'jeyam_flash_couples_030.jpg', alt: 'Couple Photography 30' },
 				{ src: 'jeyam_flash_couples_031.jpg', alt: 'Couple Photography 31' },
 				{ src: 'jeyam_flash_couples_032.jpg', alt: 'Couple Photography 32' },
+				//{ src: 'jeyam_flash_couples_033.jpg', alt: 'Couple Photography 33' },
 				{ src: 'jeyam_flash_couples_034.jpg', alt: 'Couple Photography 34' },
 				{ src: 'jeyam_flash_couples_035.jpg', alt: 'Couple Photography 35' },
 				{ src: 'jeyam_flash_couples_036.jpg', alt: 'Couple Photography 36' },
@@ -231,6 +233,7 @@ const galleryData = {
         title: 'ID Card Collection',
         description: 'Capturing the joy and excitement of ID Card',
         images: [
+			{ src: 'jeyam_flash_idcard_004.jpg', alt: 'ID Card Photography 4' },
             { src: 'jeyam_flash_idcard_001.jpg', alt: 'ID Card Photography 1' },
             { src: 'jeyam_flash_idcard_002.jpg', alt: 'ID Card Photography 2' },		
             { src: 'jeyam_flash_idcard_003.jpg', alt: 'ID Card Photography 3' }						
