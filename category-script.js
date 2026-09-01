@@ -130,7 +130,6 @@ const galleryData = {
             { src: 'jeyam_flash_birthday_008.jpg', alt: 'Birthday Baby Photography 8' },
             { src: 'jeyam_flash_birthday_009.jpg', alt: 'Birthday Baby Photography 9' },
             { src: 'jeyam_flash_birthday_010.jpg', alt: 'Birthday Baby Photography 10' },
-            { src: 'jeyam_flash_birthday_011.jpg', alt: 'Birthday Baby Photography 11' },
             { src: 'jeyam_flash_birthday_013.jpg', alt: 'Birthday Baby Photography 13' },
             { src: 'jeyam_flash_birthday_014.jpg', alt: 'Birthday Baby Photography 14' },
 			{ src: 'jeyam_flash_birthday_023.jpg', alt: 'Birthday Baby Photography 23' },
