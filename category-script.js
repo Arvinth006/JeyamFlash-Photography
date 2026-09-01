@@ -26,7 +26,6 @@ const galleryData = {
 				{ src: 'jeyam_flash_wedding_032.jpg', alt: 'Wedding Photography 32' },
 				{ src: 'jeyam_flash_wedding_033.jpg', alt: 'Wedding Photography 33' },
 				{ src: 'jeyam_flash_wedding_034.jpg', alt: 'Wedding Photography 34' },
-				{ src: 'jeyam_flash_wedding_036.jpg', alt: 'Wedding Photography 36' },
 				{ src: 'jeyam_flash_wedding_037.jpg', alt: 'Wedding Photography 37' },
 				{ src: 'jeyam_flash_wedding_038.jpg', alt: 'Wedding Photography 38' }
 		
