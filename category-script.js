@@ -78,48 +78,7 @@ const galleryData = {
 				{ src: 'jeyam_flash_couples_002.jpg', alt: 'Couple Photography 2' },
 				{ src: 'jeyam_flash_couples_003.jpg', alt: 'Couple Photography 3' },
 				{ src: 'jeyam_flash_couples_004.jpg', alt: 'Couple Photography 4' },
-				{ src: 'jeyam_flash_couples_005.jpg', alt: 'Couple Photography 5' },
-				{ src: 'jeyam_flash_couples_006.jpg', alt: 'Couple Photography 6' },
-				{ src: 'jeyam_flash_couples_007.jpg', alt: 'Couple Photography 7' },
-				{ src: 'jeyam_flash_couples_013.jpg', alt: 'Couple Photography 13' },
-				{ src: 'jeyam_flash_couples_014.jpg', alt: 'Couple Photography 14' },
-				{ src: 'jeyam_flash_couples_015.jpg', alt: 'Couple Photography 15' },
-				{ src: 'jeyam_flash_couples_016.jpg', alt: 'Couple Photography 16' },
-				{ src: 'jeyam_flash_couples_017.jpg', alt: 'Couple Photography 17' },
-				{ src: 'jeyam_flash_couples_018.jpg', alt: 'Couple Photography 18' },
-				{ src: 'jeyam_flash_couples_019.jpg', alt: 'Couple Photography 19' },
-				{ src: 'jeyam_flash_couples_020.jpg', alt: 'Couple Photography 20' },
-				{ src: 'jeyam_flash_couples_021.jpg', alt: 'Couple Photography 21' },
-				
-				{ src: 'jeyam_flash_couples_023.jpg', alt: 'Couple Photography 23' },
-				{ src: 'jeyam_flash_couples_024.jpg', alt: 'Couple Photography 24' },
-				{ src: 'jeyam_flash_couples_025.jpg', alt: 'Couple Photography 25' },
-				{ src: 'jeyam_flash_couples_026.jpg', alt: 'Couple Photography 26' },
-				{ src: 'jeyam_flash_couples_027.jpg', alt: 'Couple Photography 27' },
-				{ src: 'jeyam_flash_couples_028.jpg', alt: 'Couple Photography 28' },
-				{ src: 'jeyam_flash_couples_029.jpg', alt: 'Couple Photography 29' },
-				{ src: 'jeyam_flash_couples_030.jpg', alt: 'Couple Photography 30' },
-				{ src: 'jeyam_flash_couples_031.jpg', alt: 'Couple Photography 31' },
-				{ src: 'jeyam_flash_couples_032.jpg', alt: 'Couple Photography 32' },
-				
-				{ src: 'jeyam_flash_couples_034.jpg', alt: 'Couple Photography 34' },
-				{ src: 'jeyam_flash_couples_035.jpg', alt: 'Couple Photography 35' },
-				{ src: 'jeyam_flash_couples_036.jpg', alt: 'Couple Photography 36' },
-				{ src: 'jeyam_flash_couples_037.jpg', alt: 'Couple Photography 37' },
-				{ src: 'jeyam_flash_couples_038.jpg', alt: 'Couple Photography 38' },
-				{ src: 'jeyam_flash_couples_039.jpg', alt: 'Couple Photography 39' },
-				{ src: 'jeyam_flash_couples_040.jpg', alt: 'Couple Photography 40' },
-				{ src: 'jeyam_flash_couples_041.jpg', alt: 'Couple Photography 41' },
-				{ src: 'jeyam_flash_couples_042.jpg', alt: 'Couple Photography 42' },
-				{ src: 'jeyam_flash_couples_043.jpg', alt: 'Couple Photography 43' },
-				{ src: 'jeyam_flash_couples_044.jpg', alt: 'Couple Photography 44' },
-				{ src: 'jeyam_flash_couples_001.jpg', alt: 'Baby Photography 9' },
-				{ src: 'jeyam_flash_couples_002.jpg', alt: 'Baby Photography 10' },
-				{ src: 'jeyam_flash_couples_003.jpg', alt: 'Baby Photography 11' },
-				{ src: 'jeyam_flash_couples_004.jpg', alt: 'Baby Photography 12' },
-				{ src: 'jeyam_flash_couples_005.jpg', alt: 'Baby Photography 13' },
-				{ src: 'jeyam_flash_couples_006.jpg', alt: 'Baby Photography 14' },
-				{ src: 'jeyam_flash_couples_007.jpg', alt: 'Baby Photography 15' }			
+				{ src: 'jeyam_flash_couples_005.jpg', alt: 'Couple Photography 5' }	
 
         ]
     },
@@ -132,6 +91,7 @@ const galleryData = {
             { src: 'Jeyamtraditional1.jpg', alt: 'Traditional Photography 2' },
             { src: 'Jeyamtraditional2.jpg', alt: 'Traditional Photography 3' },
             { src: 'Jeyamtraditional3.jpg', alt: 'Traditional Photography 4' }
+			
         ]
     },
 	
