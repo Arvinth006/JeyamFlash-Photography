@@ -123,7 +123,6 @@ const galleryData = {
         images: [
             { src: 'jeyam_flash_birthday_001.jpg', alt: 'Birthday Baby Photography 1' },
             { src: 'jeyam_flash_birthday_002.jpg', alt: 'Birthday Baby Photography 2' },
-            { src: 'jeyam_flash_birthday_003.jpg', alt: 'Birthday Baby Photography 3' },
             { src: 'jeyam_flash_birthday_004.jpg', alt: 'Birthday Baby Photography 4' },
             { src: 'jeyam_flash_birthday_005.jpg', alt: 'Birthday Baby Photography 5' },
             { src: 'jeyam_flash_birthday_006.jpg', alt: 'Birthday Baby Photography 6' },
@@ -141,16 +140,18 @@ const galleryData = {
 			{ src: 'jeyam_flash_birthday_018.jpg', alt: 'Birthday Baby Photography 18' },
 			{ src: 'jeyam_flash_birthday_019.jpg', alt: 'Birthday Baby Photography 19' },
 			{ src: 'jeyam_flash_birthday_020.jpg', alt: 'Birthday Baby Photography 20' },
-			{ src: 'jeyam_flash_birthday_021.jpg', alt: 'Birthday Baby Photography 21' },
+		
+	
 			{ src: 'jeyam_flash_birthday_022.jpg', alt: 'Birthday Baby Photography 22' },
 			{ src: 'jeyam_flash_birthday_023.jpg', alt: 'Birthday Baby Photography 23' },
 			{ src: 'jeyam_flash_birthday_024.jpg', alt: 'Birthday Baby Photography 24' },
-			{ src: 'jeyam_flash_birthday_025.jpg', alt: 'Birthday Baby Photography 25' },
+	
+			
 			{ src: 'jeyam_flash_birthday_026.jpg', alt: 'Birthday Baby Photography 26' },
 			{ src: 'jeyam_flash_birthday_027.jpg', alt: 'Birthday Baby Photography 27' },
-			{ src: 'jeyam_flash_birthday_028.jpg', alt: 'Birthday Baby Photography 28' },
-			{ src: 'jeyam_flash_birthday_029.jpg', alt: 'Birthday Baby Photography 29' },
-			{ src: 'jeyam_flash_birthday_030.jpg', alt: 'Birthday Baby Photography 30' }
+			{ src: 'jeyam_flash_birthday_028.jpg', alt: 'Birthday Baby Photography 28' }
+			
+			
         ]
     },
 
