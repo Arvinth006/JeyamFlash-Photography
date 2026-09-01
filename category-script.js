@@ -158,16 +158,8 @@ const galleryData = {
     'passport': {
         title: 'Passport Size Photo Collection',
         description: 'Capturing the joy and excitement of Passport Size Photos',
-        images: [
-            { src: 'jeyam_flash_photocopy_001.jpg', alt: 'Passport Size Photocopy 1' },
-            { src: 'jeyam_flash_photocopy_002.jpg', alt: 'Passport Size Photocopy 2' },		
-            { src: 'jeyam_flash_photocopy_003.jpg', alt: 'Passport Size Photocopy 3' },					
-			{ src: 'jeyam_flash_photocopy_004.jpg', alt: 'Passport Size Photocopy 4' },						
-			{ src: 'jeyam_flash_photocopy_005.jpg', alt: 'Passport Size Photocopy 5' },						
-			{ src: 'jeyam_flash_photocopy_006.jpg', alt: 'Passport Size Photocopy 6' },						
-			{ src: 'jeyam_flash_photocopy_007.jpg', alt: 'Passport Size Photocopy 7' },						
-			{ src: 'jeyam_flash_photocopy_008.jpg', alt: 'Passport Size Photocopy 8' },						
-			{ src: 'jeyam_flash_photocopy_009.jpg', alt: 'Passport Size Photocopy 9' }						
+        images: [				
+			{ src: 'jeyam_flash_photocopy_004.jpg', alt: 'Passport Size Photocopy 4' }				
         ]
     },	
 	
