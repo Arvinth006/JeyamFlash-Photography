@@ -13,8 +13,6 @@ const galleryData = {
 				{ src: 'jeyam_flash_wedding_003.jpg', alt: 'Wedding Photography 3' },
 				{ src: 'jeyam_flash_wedding_004.jpg', alt: 'Wedding Photography 4' },
 				{ src: 'jeyam_flash_wedding_005.jpg', alt: 'Wedding Photography 5' },
-				{ src: 'jeyam_flash_wedding_006.jpg', alt: 'Wedding Photography 6' },
-				{ src: 'jeyam_flash_wedding_007.jpg', alt: 'Wedding Photography 7' },
 				{ src: 'jeyam_flash_wedding_022.jpg', alt: 'Wedding Photography 22' },
 				{ src: 'jeyam_flash_wedding_023.jpg', alt: 'Wedding Photography 23' },
 				{ src: 'jeyam_flash_wedding_025.jpg', alt: 'Wedding Photography 25' },
