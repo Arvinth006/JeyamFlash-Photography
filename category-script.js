@@ -28,11 +28,7 @@ const galleryData = {
 				{ src: 'jeyam_flash_wedding_034.jpg', alt: 'Wedding Photography 34' },
 				{ src: 'jeyam_flash_wedding_036.jpg', alt: 'Wedding Photography 36' },
 				{ src: 'jeyam_flash_wedding_037.jpg', alt: 'Wedding Photography 37' },
-				{ src: 'jeyam_flash_wedding_038.jpg', alt: 'Wedding Photography 38' },
-				{ src: 'jeyam_flash_wedding_039.jpg', alt: 'Wedding Photography 39' },
-				{ src: 'jeyam_flash_wedding_040.jpg', alt: 'Wedding Photography 40' },
-				{ src: 'jeyam_flash_wedding_041.jpg', alt: 'Wedding Photography 41' }
-
+				{ src: 'jeyam_flash_wedding_038.jpg', alt: 'Wedding Photography 38' }
 		
         ]
     },
